@@ -1,0 +1,326 @@
+{
+    "chefs": [
+        {
+            "id": 0,
+            "name": "Giada De Laurentiis",
+            "picture": "https://cdn.leonardo.ai/users/6b05b28b-2898-4981-b04a-aedf76061171/generations/caed2cb7-3f23-4d3a-b191-d01ee0f82342/Leonardo_Diffusion_Giada_De_Laurentiis_1.jpg",
+            "years_of_experience": 20,
+            "bio": "Giada De Laurentiis is an Italian-American chef, writer, and television personality. She is the host of Food Network's Giada at Home. De Laurentiis is the founder of the catering business GDL Foods. She has authored several cookbooks, including Giada's Family Dinners and Everyday Italian: 125 Simple and Delicious Recipes.",
+            "likes": 15504,
+            "total_recipes": 23,
+            "recipes": [
+                {
+                    "id": 1,
+                    "recipe_name": "Spaghetti Aglio e Olio",
+                    "recipe_img": "https://cdn.leonardo.ai/users/6b05b28b-2898-4981-b04a-aedf76061171/generations/67e869f7-3013-499a-97d0-1c54a9f007bb/Leonardo_Diffusion_Spaghetti_Aglio_e_Olio_0.jpg",
+                    "ingredients": [
+                        "spaghetti",
+                        "garlic",
+                        "olive oil",
+                        "red pepper flakes",
+                        "parmesan cheese"
+                    ],
+                    "cooking_method": "1. Cook spaghetti according to package instructions. 2. In a pan, heat olive oil and garlic over medium heat until garlic is fragrant. 3. Add red pepper flakes and cook for another minute. 4. Add cooked spaghetti to the pan and toss with the garlic oil. 5. Serve with grated parmesan cheese.",
+                    "rating": 4.5
+                },
+                {
+                    "id": 2,
+                    "recipe_name": "Eggplant Parmesan",
+                    "recipe_img": "https://cdn.leonardo.ai/users/6b05b28b-2898-4981-b04a-aedf76061171/generations/07579100-7c04-4f0d-995f-86b052c80ae5/Leonardo_Diffusion_Eggplant_Parmesan_1.jpg",
+                    "ingredients": [
+                        "eggplant",
+                        "flour",
+                        "egg",
+                        "breadcrumbs",
+                        "marinara sauce"
+                    ],
+                    "cooking_method": "1. Preheat oven to 375°F. 2. Slice eggplant into 1/2-inch rounds. 3. Dredge each slice in flour, then dip in beaten egg, then coat with breadcrumbs. 4. Bake eggplant slices for 20 minutes. 5. Layer eggplant slices in a baking dish with marinara sauce and mozzarella cheese. 6. Bake for an additional 15 minutes.",
+                    "rating": 4.8
+                },
+                {
+                    "id": 3,
+                    "recipe_name": "Tiramisu",
+                    "recipe_img": "https://cdn.leonardo.ai/users/6b05b28b-2898-4981-b04a-aedf76061171/generations/5b7a4e79-23fd-413a-8398-29defcba6763/Leonardo_Diffusion_Tiramisu_1.jpg",
+                    "ingredients": [
+                        "ladyfingers",
+                        "espresso",
+                        "marsala wine",
+                        "mascarpone cheese",
+                        "cocoa powder"
+                    ],
+                    "cooking_method": "1. Brew espresso and stir in marsala wine. 2. Dip ladyfingers in espresso mixture and place in a single layer in a 9x13 inch dish. 3. In a mixing bowl, beat together mascarpone cheese and sugar until smooth. 4. Spread half of the mascarpone mixture over the ladyfingers. 5. Repeat layers with remaining ladyfingers and mascarpone mixture. 6. Dust the top with cocoa powder. 7. Chill for at least 2 hours before serving.",
+                    "rating": 4.9
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Mario Batali",
+            "picture": "https://cdn.leonardo.ai/users/6b05b28b-2898-4981-b04a-aedf76061171/generations/197bf304-a0a1-4c3b-b95b-e6c05aaf57f7/Leonardo_Diffusion_Mario_Batali_0.jpg",
+            "years_of_experience": 30,
+            "bio": "Mario Batali is a celebrity chef, restaurateur, and author. He is known for his Italian-American cuisine and has been awarded numerous accolades for his culinary achievements, including a James Beard Foundation Award for Best Chef in New York City. Batali has also appeared on several TV shows, including Iron Chef America and The Chew.",
+            "likes": 12500,
+            "total_recipes": 25,
+            "recipes": [
+                {
+                    "id": 1,
+                    "recipe_name": "Margherita Pizza",
+                    "recipe_img": "https://cdn.leonardo.ai/users/6b05b28b-2898-4981-b04a-aedf76061171/generations/f2d1f942-0a7e-47a3-a3ef-0e63f82a050c/Leonardo_Diffusion_Margherita_Pizza_0.jpg",
+                    "ingredients": [
+                        "pizza dough",
+                        "tomato sauce",
+                        "mozzarella cheese",
+                        "fresh basil",
+                        "olive oil"
+                    ],
+                    "cooking_method": "1. Preheat oven to 500°F. 2. Stretch pizza dough into a circle and place on a baking sheet. 3. Spread tomato sauce over the dough. 4. Top with slices of mozzarella cheese. 5. Bake for 8-10 minutes or until crust is golden brown. 6. Garnish with fresh basil leaves and a drizzle of olive oil.",
+                    "rating": 4.7
+                },
+                {
+                    "id": 2,
+                    "recipe_name": "Bucatini all'Amatriciana",
+                    "recipe_img": "https://cdn.leonardo.ai/users/6b05b28b-2898-4981-b04a-aedf76061171/generations/a3dc5187-dee1-4ddb-97b4-6e0de31fd9a7/Leonardo_Diffusion_Bucatini_allAmatriciana_0.jpg",
+                    "ingredients": [
+                        "bucatini pasta",
+                        "pancetta",
+                        "onion",
+                        "canned tomatoes",
+                        "pecorino romano cheese"
+                    ],
+                    "cooking_method": "1. Cook bucatini according to package instructions. 2. In a pan,cook pancetta over medium heat until crispy. 3. Add diced onion to the pan and cook until softened. 4. Add canned tomatoes and simmer for 10 minutes. 5. Toss cooked pasta with the tomato sauce. 6. Serve with grated pecorino romano cheese.",
+                    "rating": 4.6
+                },
+                {
+                    "id": 3,
+                    "recipe_name": "Osso Buco",
+                    "recipe_img": "https://cdn.leonardo.ai/users/6b05b28b-2898-4981-b04a-aedf76061171/generations/43db789b-06b1-430b-9c6d-ca3557741637/Leonardo_Diffusion_Osso_Buco_0.jpg",
+                    "ingredients": [
+                        "veal shanks",
+                        "flour",
+                        "carrots",
+                        "onion",
+                        "tomato paste"
+                    ],
+                    "cooking_method": "1. Preheat oven to 375°F. 2. Dredge veal shanks in flour and brown in a pan. 3. Transfer shanks to a baking dish. 4. In the same pan, sauté diced onion and carrots until softened. 5. Add tomato paste and cook for another minute. 6. Pour the vegetable mixture over the veal shanks. 7. Cover the baking dish with foil and bake for 2-3 hours. 8. Serve with gremolata (chopped parsley, lemon zest, and garlic).",
+                    "rating": 4.9
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Lidia Bastianich",
+            "picture": "https://cdn.leonardo.ai/users/6b05b28b-2898-4981-b04a-aedf76061171/generations/97407997-829d-4642-a6be-a982065ad354/Leonardo_Diffusion_Lidia_Bastianich_1.jpg",
+            "years_of_experience": 40,
+            "bio": "Lidia Bastianich is an Italian-American chef, restaurateur, author, and television host. She was born in Italy and moved to the United States as a child. Lidia is known for her simple yet flavorful Italian dishes, and has written several cookbooks and hosted multiple television shows. She also owns several successful restaurants across the United States.",
+            "likes": 17200,
+            "total_recipes": 33,
+            "recipes": [
+                {
+                    "id": 1,
+                    "recipe_name": "Pasta e Fagioli",
+                    "recipe_img": "https://cdn.leonardo.ai/users/6b05b28b-2898-4981-b04a-aedf76061171/generations/e3693509-9556-4fd5-a5b4-894bceeadfd6/Leonardo_Diffusion_Pasta_e_Fagioli_1.jpg",
+                    "ingredients": [
+                        "cannellini beans",
+                        "ditalini pasta",
+                        "onion",
+                        "carrots",
+                        "celery"
+                    ],
+                    "cooking_method": "1. In a pot, sauté diced onion, carrots, and celery until softened. 2. Add canned cannellini beans and their liquid. 3. Simmer for 10 minutes. 4. Cook ditalini pasta separately and add to the pot. 5. Serve hot.",
+                    "rating": 4.4
+                },
+                {
+                    "id": 2,
+                    "recipe_name": "Polenta",
+                    "recipe_img": "https://cdn.leonardo.ai/users/6b05b28b-2898-4981-b04a-aedf76061171/generations/b68d3991-5ac9-49de-92cc-302d1b7afbf8/Leonardo_Diffusion_Polenta_1.jpg",
+                    "ingredients": [
+                        "yellow cornmeal",
+                        "water",
+                        "butter",
+                        "parmesan cheese",
+                        "salt"
+                    ],
+                    "cooking_method": "1. Bring water to a boil in a pot. 2. Gradually whisk in cornmeal until no lumps remain. 3. Reduce heat to low and stir constantly for 30-40 minutes. 4. Stir in butter, parmesan cheese, and salt. 5. Serve hot as a side dish.",
+                    "rating": 4.6
+                },
+                {
+                    "id": 3,
+                    "recipe_name": "Torta di Mele",
+                    "recipe_img": "https://cdn.leonardo.ai/users/6b05b28b-2898-4981-b04a-aedf76061171/generations/5037907d-9a90-4877-923a-d82fa42f5e3f/Leonardo_Diffusion_Torta_di_Mele_0.jpg",
+                    "ingredients": [
+                        "apples",
+                        "flour",
+                        "sugar",
+                        "eggs",
+                        "butter"
+                    ],
+                    "cooking_method": "1. Preheat oven to 350°F. 2. Peel and slice apples. 3. Mix together flour, sugar, and eggs to make a batter. 4. In a separate pan, melt butter and sauté apples until softened. 5. Pour the batter over the apples and bake for 30-35 minutes. 6. Serve warm with whipped cream or vanilla ice cream.",
+                    "rating": 4.8
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Massimo Bottura",
+            "picture": "https://cdn.leonardo.ai/users/6b05b28b-2898-4981-b04a-aedf76061171/generations/e4221a34-c17f-4d10-968a-5c7cd48a6f5a/Leonardo_Diffusion_Massimo_Bottura_1.jpg",
+            "years_of_experience": 25,
+            "bio": "Massimo Bottura is an Italian restaurateur and chef-owner of Osteria Francescana, a three-Michelin-star restaurant in Modena, Italy. He is known for his innovative and creative approach to traditional Italian cuisine, and has been ranked as the world's best chef by the World's 50 Best Restaurants list in 2016 and 2018. In addition to his work in the culinary world, Bottura is also an advocate for social and environmental causes.",
+            "likes": 13050,
+            "total_recipes": 17,
+            "recipes": [
+                {
+                    "id": 1,
+                    "recipe_name": "Tortellini in Brodo",
+                    "recipe_img": "https://cdn.leonardo.ai/users/6b05b28b-2898-4981-b04a-aedf76061171/generations/0f696791-fdf5-40e4-886f-8e369cde8adf/Leonardo_Diffusion_Tortellini_in_Brodo_1.jpg",
+                    "ingredients": [
+                        "tortellini",
+                        "chicken broth",
+                        "parmesan cheese",
+                        "nutmeg",
+                        "butter"
+                    ],
+                    "cooking_method": "1. Bring chickenbroth to a boil in a pot. 2. Add tortellini and cook for 3-4 minutes. 3. Serve hot with grated parmesan cheese, a sprinkle of nutmeg, and a pat of butter.",
+                    "rating": 4.5
+                },
+                {
+                    "id": 2,
+                    "recipe_name": "Risotto alla Parmigiana",
+                    "recipe_img": "https://cdn.leonardo.ai/users/6b05b28b-2898-4981-b04a-aedf76061171/generations/d90d34e2-77eb-4260-b742-e8b14143c560/Leonardo_Diffusion_Risotto_alla_Parmigiana_1.jpg",
+                    "ingredients": [
+                        "arborio rice",
+                        "onion",
+                        "white wine",
+                        "parmesan cheese",
+                        "butter"
+                    ],
+                    "cooking_method": "1. In a pot, sauté diced onion until softened. 2. Add arborio rice and stir until coated in the onion mixture. 3. Add white wine and cook until evaporated. 4. Gradually add chicken broth, stirring constantly, until the rice is cooked and the mixture is creamy. 5. Stir in grated parmesan cheese and a pat of butter. 6. Serve hot.",
+                    "rating": 4.7
+                },
+                {
+                    "id": 3,
+                    "recipe_name": "Tiramisu",
+                    "recipe_img": "https://cdn.leonardo.ai/users/6b05b28b-2898-4981-b04a-aedf76061171/generations/e7b703ba-c2ba-4a8b-a111-ca99cb9b86c4/Leonardo_Diffusion_Tiramisu_0.jpg",
+                    "ingredients": [
+                        "ladyfingers",
+                        "espresso",
+                        "mascarpone cheese",
+                        "eggs",
+                        "sugar"
+                    ],
+                    "cooking_method": "1. Brew strong espresso and let it cool. 2. In a mixing bowl, whisk together egg yolks and sugar until light and fluffy. 3. Add mascarpone cheese and whisk until smooth. 4. In a separate bowl, beat egg whites until stiff peaks form. 5. Gently fold the egg whites into the mascarpone mixture. 6. Dip ladyfingers in the cooled espresso and layer them in a serving dish. 7. Spread the mascarpone mixture over the ladyfingers. 8. Chill in the refrigerator for at least 2 hours. 9. Dust with cocoa powder before serving.",
+                    "rating": 4.9
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Gennaro Contaldo",
+            "picture": "https://cdn.leonardo.ai/users/6b05b28b-2898-4981-b04a-aedf76061171/generations/8b2665c7-aea2-4e8e-93cc-657f3d4487c9/Leonardo_Diffusion_Gennaro_Contaldo_1.jpg",
+            "years_of_experience": 50,
+            "bio": "Gennaro Contaldo is an Italian chef and restaurateur who is known for his association with fellow chef Jamie Oliver and for his Italian cooking expertise. He has appeared on several TV shows, including 'Two Greedy Italians' and 'Saturday Kitchen'. He is the author of several cookbooks, including 'Gennaro's Italian Year' and 'Passione'.",
+            "likes": 14450,
+            "total_recipes": 30,
+            "recipes": [
+                {
+                    "id": 1,
+                    "recipe_name": "Pesto alla Genovese",
+                    "recipe_img": "https://cdn.leonardo.ai/users/6b05b28b-2898-4981-b04a-aedf76061171/generations/a5559a7f-d22d-41bb-8de3-70a49ca12348/Leonardo_Diffusion_Pesto_alla_Genovese_0.jpg",
+                    "ingredients": [
+                        "basil leaves",
+                        "garlic",
+                        "pine nuts",
+                        "parmesan cheese",
+                        "olive oil"
+                    ],
+                    "cooking_method": "1. In a blender, combine the basil leaves, garlic, pine nuts, and parmesan cheese. 2. Blend until finely chopped. 3. While the blender is running, slowly drizzle in the olive oil until the mixture is smooth. 4. Season with salt and pepper to taste.",
+                    "rating": 4.6
+                },
+                {
+                    "id": 2,
+                    "recipe_name": "Risotto ai Funghi",
+                    "recipe_img": "https://cdn.leonardo.ai/users/6b05b28b-2898-4981-b04a-aedf76061171/generations/bc16524d-48a6-4cdf-a791-a3dc5adf9929/Leonardo_Diffusion_Risotto_ai_Funghi_0.jpg",
+                    "ingredients": [
+                        "arborio rice",
+                        "onion",
+                        "white wine",
+                        "mushrooms",
+                        "vegetable broth",
+                        "butter",
+                        "parmesan cheese"
+                    ],
+                    "cooking_method": "1. In a pan, sauté the onion until translucent. 2. Add the arborio rice and stir until coated in the onion mixture. 3. Add white wine and cook until absorbed. 4. Add mushrooms and stir until they release their liquid. 5. Gradually add vegetable broth, stirring constantly, until the rice is cooked and the mixture is creamy. 6. Stir in butter and parmesan cheese. 7. Serve hot.",
+                    "rating": 4.7
+                },
+                {
+                    "id": 3,
+                    "recipe_name": "Tortellini in Brodo",
+                    "recipe_img": "https://cdn.leonardo.ai/users/6b05b28b-2898-4981-b04a-aedf76061171/generations/644cd150-4411-431a-a388-23506d837a8f/Leonardo_Diffusion_Tortellini_in_Brodo_1.jpg",
+                    "ingredients": [
+                        "tortellini",
+                        "chicken broth",
+                        "parmesan cheese",
+                        "butter",
+                        "mushrooms"
+                    ],
+                    "cooking_method": "1. In a pot, heat chicken broth until simmering. 2. Add tortellini and cook until tender. 3. Serve hot, topped with parmesan cheese.",
+                    "rating": 4.2
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Massimiliano Alajmo",
+            "picture": "https://cdn.leonardo.ai/users/6b05b28b-2898-4981-b04a-aedf76061171/generations/cc7814d6-17b8-40d7-8203-73668ed6a11d/Leonardo_Diffusion_Massimiliano_Alajmo_1.jpg",
+            "years_of_experience": 20,
+            "bio": "Massimiliano Alajmo is an Italian chef and restaurateur, and the youngest chef to have been awarded three Michelin stars. He is the owner and executive chef of Le Calandre, a restaurant located in Sarmeola di Rubano, Italy. Alajmo is known for his innovative and creative approach to traditional Italian cuisine, and for his use of local and seasonal ingredients.",
+            "likes": 16033,
+            "total_recipes": 36,
+            "recipes": [
+                {
+                    "id": 1,
+                    "recipe_name": "Risotto with Scampi and Asparagus",
+                    "recipe_img": "https://cdn.leonardo.ai/users/6b05b28b-2898-4981-b04a-aedf76061171/generations/ed55a767-ff21-460c-8175-7f68dbc6b654/Leonardo_Diffusion_Risotto_with_Scampi_and_Asparagus_0.jpg",
+                    "ingredients": [
+                        "Arborio rice",
+                        "scampi",
+                        "asparagus",
+                        "white wine",
+                        "butter"
+                        
+                    ],
+                    "cooking_method": "1. In a pan, sauté the chopped shallot in olive oil. Add the Arborio rice and toast it for a few minutes. 2. Deglaze with white wine and let the alcohol evaporate. 3. Add the hot vegetable broth a little at a time, stirring constantly, for about 18-20 minutes. 4. In another pan, sauté the scampi and asparagus with a little butter. 5. When the risotto is ready, add the scampi and asparagus, a knob of butter, and a generous amount of grated Parmesan cheese. 6. Let it rest for a minute and serve hot.",
+                    "rating": 4.7
+                },
+                {
+                    "id": 2,
+                    "recipe_name": "Pigeon with Red Fruits",
+                    "recipe_img": "https://cdn.leonardo.ai/users/6b05b28b-2898-4981-b04a-aedf76061171/generations/1bb8050c-61b2-424b-906e-67ab8fcfba4d/Leonardo_Diffusion_cooked_Pigeon_with_Red_Fruits_0.jpg",
+                    "ingredients": [
+                        "pigeon",
+                        "red fruits (cherry, blackcurrant, raspberry, strawberry)",
+                        "honey",
+                        "olive oil",
+                        "salt",
+                        "pepper"
+                    ],
+                    "cooking_method": "1. Preheat oven to 350°F. 2. Clean the pigeon and rub with olive oil, salt, and pepper. 3. Roast the pigeon in the oven for 10-12 minutes. 4. In a pan, heat honey and add the red fruits. Cook for a few minutes until the fruits are soft. 5. Serve the pigeon with the red fruits on the side.",
+                    "rating": 4.9
+                },
+                {
+                    "id": 3,
+                    "recipe_name": "Lemon Tart",
+                    "recipe_img": "https://cdn.leonardo.ai/users/6b05b28b-2898-4981-b04a-aedf76061171/generations/c3e28dbd-7724-4979-8523-18da2dba8c76/Leonardo_Diffusion_Lemon_Tart_1.jpg",
+                    "ingredients": [
+                        "flour",
+                        "butter",
+                        "sugar",
+                        "lemon",
+                        "eggs"
+                    ],
+                    "cooking_method": "1. Preheat oven to 350°F. 2. In a mixing bowl, combine flour, butter, and sugar to form a dough. 3. Roll out the dough and line a tart tin. 4. In another bowl, beat together eggs and sugar. 5. Add lemon juice and zest to the egg mixture and mix well. 6. Pour the mixture into the tart shell. 7. Bake for 25-30 minutes. 8. Let cool before serving.",
+                    "rating": 4.6
+                }
+            ]
+        }
+    ]
+}
